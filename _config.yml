@@ -9,8 +9,8 @@
 locale                   : "en"
 title                    : "Site Title"
 title_separator          : "-"
-name                     : "Your Name"
-description              : "An amazing website."
+name                     : "Rei Wang"
+description              : "Reiwang Development Blog"
 url                      : # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 gh_repo                  :
@@ -63,10 +63,10 @@ google_ad_slot           :
 
 # Site Author
 author:
-  name             : "Your Name"
-  avatar           : "bio-photo.jpg"
+  name             : "Reiwang"
+  avatar           : "bio-photo.png"
   bio              : "I am an amazing person."
-  location         : "Somewhere"
+  location         : "Shenzhen"
   email            :
   uri              :
   bitbucket        :
